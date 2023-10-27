@@ -1,0 +1,30 @@
+- git:
+    local-name: sun_robot_ros
+    uri: https://github.com/marcocostanzo/sun_robot_ros.git
+    version: master
+
+- git:
+    local-name: sun_robot_lib
+    uri: https://github.com/marcocostanzo/sun_robot_lib.git
+    version: separate_clik
+
+- git:
+    local-name: sun_math_toolbox
+    uri: https://github.com/marcocostanzo/sun_math_toolbox.git
+    version: master
+
+- git:
+    local-name: ros_toon
+    uri: https://github.com/marcocostanzo/ros_toon.git
+    version: master
+
+- git:
+    local-name: sun_ros_msgs
+    uri: https://github.com/marcocostanzo/sun_ros_msgs.git
+    version: master
+
+- git:
+    local-name: sun_traj_lib
+    uri: https://github.com/marcocostanzo/sun_traj_lib.git
+    version: master
+
